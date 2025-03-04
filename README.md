@@ -27,39 +27,13 @@ To get started with CCradFD, follow these steps:
    ```bash
    cd CCradFD
 
-3.Install the required dependencies:     
-
-   ```bash
+3. Install the required dependencies:
+   ``bash
    pip install -r requirements.txt
 
-
-
 ## Usage
-
-4. To run the project, use the following command:
+To run the project, use the following command:
    ```bash
    python main.py
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create your feature branch:
-
-git checkout -b feature/YourFeature
-
-3. Commit your changes:
-
-git commit -m "Add some feature"
-
-4. Push to the branch:
-
-git push origin feature/YourFeature
-
-5.Open a pull request.
-
-
-
-
-
+   
 

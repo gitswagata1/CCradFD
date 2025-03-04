@@ -24,21 +24,17 @@ To get started with CCradFD, follow these steps:
    git clone https://github.com/gitswagata1/CCradFD.git
 
 2. Navigate to the project directory:
+   ```bash
+   cd CCradFD
 
-```bash
-cd CCradFD
-
-3.Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
+3.Install the required dependencies:     
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 To run the project, use the following command:
-
-```bash
-
-python main.py
+   ```bash
+   python main.py
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to report a bug, please open an issue or submit a pull request.

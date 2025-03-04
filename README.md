@@ -36,7 +36,7 @@ To get started with CCradFD, follow these steps:
 
 ## Usage
 
-To run the project, use the following command:
+4. To run the project, use the following command:
    ```bash
    python main.py
 

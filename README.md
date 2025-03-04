@@ -28,7 +28,7 @@ To get started with CCradFD, follow these steps:
    cd CCradFD
 
 3. Install the required dependencies:
-   ``bash
+   ```bash
    pip install -r requirements.txt
 
 ## Usage

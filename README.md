@@ -62,7 +62,4 @@ git push origin feature/YourFeature
 
 
 
-Bookmark message
-Copy message
-
 

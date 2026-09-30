@@ -1,36 +1,28 @@
-# credit_card_fraud_detection
+# Credit Card Fraud Detection
 
-## Table of Contents
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+ML pipeline for detecting fraudulent credit card transactions using classification models on highly imbalanced datasets.
 
-## Features
+## Overview
 
-- [Feature 1: e.g., "User -friendly interface"]
-- [Feature 2: e.g., "Real-time data processing"]
-- [Feature 3: e.g., "Supports multiple data formats"]
+- Binary classification on transaction data with extreme class imbalance
+- Preprocessing with feature scaling and SMOTE oversampling
+- Model comparison: Logistic Regression, Random Forest, XGBoost
+- Evaluation using precision, recall, F1-score, and ROC-AUC
 
-## Installation
+## Quick Start
 
-To get started with CCradFD, follow these steps:
+```bash
+git clone https://github.com/gitswagata1/CCradFD.git
+cd CCradFD
+pip install -r requirements.txt
+python main.py
+```
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gitswagata1/CCradFD.git
+## Author
 
-2. Navigate to the project directory:
-   ```bash
-   cd CCradFD
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-## Usage
-To run the project, use the following command:
-   ```bash
-   python main.py
-   
-
+**Swagata Banerjee** — B.Tech CSE, VIT Vellore

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Credit Card Fraud Detection"
+abstract: "A notebook comparing undersampling and SMOTE for detecting fraudulent card transactions with logistic regression and decision trees."
+type: software
+authors:
+  - family-names: "Banerjee"
+    given-names: "Swagata"
+repository-code: "https://github.com/gitswagata1/CCradFD"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+keywords:
+  - fraud-detection
+  - machine-learning
+  - smote
+  - imbalanced-data
